@@ -1,0 +1,3 @@
+name: abp-microservice-eks
+runtime: dotnet
+description: Deployment for Abp.io Microservice project

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra.csproj", "{88EDCE27-6789-421A-8CC5-8C515D198DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88EDCE27-6789-421A-8CC5-8C515D198DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EDCE27-6789-421A-8CC5-8C515D198DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EDCE27-6789-421A-8CC5-8C515D198DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EDCE27-6789-421A-8CC5-8C515D198DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A71B217C-FEC1-4341-9527-BD666D5FB0E1}
+	EndGlobalSection
+EndGlobal
